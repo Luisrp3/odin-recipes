@@ -1,0 +1,27 @@
+* {
+    background-color: #2d2d30;
+    color: azure;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 50%;
+}
+
+body {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-left: 2px solid azure;
+    border-right: 2px solid azure;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 75%;
+}
